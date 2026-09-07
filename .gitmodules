@@ -1,0 +1,3 @@
+[submodule "Klavier"]
+	path = Klavier
+	url = git@github.com:MUK-research/Klavier.git
