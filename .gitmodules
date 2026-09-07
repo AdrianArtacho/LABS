@@ -4,3 +4,6 @@
 [submodule "tools"]
 	path = tools
 	url = git@github.com:AdrianArtacho/git_tools.git
+[submodule "PianoRules"]
+	path = PianoRules
+	url = git@github.com:MUK-research/PianoRules.git
