@@ -10,3 +10,6 @@
 [submodule "440Hz"]
 	path = 440Hz
 	url = git@github.com:MUK-research/440Hz.git
+[submodule "Tutor"]
+	path = Tutor
+	url = git@github.com:MUK-research/Tutor.git
