@@ -7,3 +7,6 @@
 [submodule "PianoRules"]
 	path = PianoRules
 	url = git@github.com:MUK-research/PianoRules.git
+[submodule "440Hz"]
+	path = 440Hz
+	url = git@github.com:MUK-research/440Hz.git
