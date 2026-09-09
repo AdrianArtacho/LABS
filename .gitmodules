@@ -13,9 +13,6 @@
 [submodule "Tutor"]
 	path = Tutor
 	url = git@github.com:MUK-research/Tutor.git
-[submodule "Tagung/Tagung/Tagung"]
-	path = Tagung/Tagung-Proposal
-	url = git@github.com:AdrianArtacho/Tagung.git
 [submodule "Tagung-Einreichung"]
-	path = Tagung-Einreichung
+	path = Tagung/Tagung-Einreichung
 	url = git@github.com:AdrianArtacho/Tagung---Proposal.git
