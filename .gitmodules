@@ -32,8 +32,8 @@
 	path = Artacho/atlas-rc
 	url = git@github.com:AdrianArtacho/atlas-rc.git
 [submodule "PORTAL"]
-	path = PORTAL
+	path = BPLab/PORTAL
 	url = git@github.com:MUK-research/PORTAL.git
 [submodule "BPL-CallForProjects"]
-	path = BPL-CallForProjects
+	path = BPLab/BPL-CallForProjects
 	url = git@github.com:AdrianArtacho/BPL-CallForProjects.git
