@@ -34,3 +34,6 @@
 [submodule "PORTAL"]
 	path = PORTAL
 	url = git@github.com:MUK-research/PORTAL.git
+[submodule "BPL-CallForProjects"]
+	path = BPL-CallForProjects
+	url = git@github.com:AdrianArtacho/BPL-CallForProjects.git
