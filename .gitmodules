@@ -25,3 +25,6 @@
 [submodule "Tagung/ideas/FragmentedTime"]
 	path = Tagung/ideas/FragmentedTime
 	url = git@github.com:AdrianArtacho/Fragmented-Time.git
+[submodule "Artacho/website-personal"]
+	path = Artacho/website-personal
+	url = git@github.com:AdrianArtacho/website-personal.git
