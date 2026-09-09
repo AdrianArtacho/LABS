@@ -31,3 +31,6 @@
 [submodule "Artacho/atlas-rc"]
 	path = Artacho/atlas-rc
 	url = git@github.com:AdrianArtacho/atlas-rc.git
+[submodule "PORTAL"]
+	path = PORTAL
+	url = git@github.com:MUK-research/PORTAL.git
