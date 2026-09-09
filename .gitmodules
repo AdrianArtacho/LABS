@@ -16,3 +16,6 @@
 [submodule "Tagung/Tagung/Tagung"]
 	path = Tagung/Tagung-Proposal
 	url = git@github.com:AdrianArtacho/Tagung.git
+[submodule "Tagung-Einreichung"]
+	path = Tagung-Einreichung
+	url = git@github.com:AdrianArtacho/Tagung---Proposal.git
