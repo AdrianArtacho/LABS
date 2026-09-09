@@ -19,3 +19,9 @@
 [submodule "Tagung/PEEK-MUK"]
 	path = Tagung/PEEK-MUK
 	url = git@github.com:AdrianArtacho/PEEK-MUK.git
+[submodule "Tagung/ideas/ArsEmergendi"]
+	path = Tagung/ideas/ArsEmergendi
+	url = git@github.com:AdrianArtacho/ArsEmergendi.git
+[submodule "Tagung/ideas/FragmentedTime"]
+	path = Tagung/ideas/FragmentedTime
+	url = git@github.com:AdrianArtacho/Fragmented-Time.git
