@@ -37,3 +37,6 @@
 [submodule "BPL-CallForProjects"]
 	path = BPLab/BPL-CallForProjects
 	url = git@github.com:AdrianArtacho/BPL-CallForProjects.git
+[submodule "Tagung/AR-MUK-Summary"]
+	path = Tagung/AR-MUK-Summary
+	url = git@github.com:AdrianArtacho/AR-MUK-Summary.git
