@@ -40,3 +40,6 @@
 [submodule "Tagung/AR-MUK-Summary"]
 	path = Tagung/AR-MUK-Summary
 	url = git@github.com:AdrianArtacho/AR-MUK-Summary.git
+[submodule "Tagung/Deck"]
+	path = Tagung/Deck
+	url = https://github.com/AdrianArtacho/Attention-Deck
