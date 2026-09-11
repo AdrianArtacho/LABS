@@ -7,3 +7,36 @@
 [submodule "PianoRules"]
 	path = PianoRules
 	url = git@github.com:MUK-research/PianoRules.git
+[submodule "440Hz"]
+	path = 440Hz
+	url = git@github.com:MUK-research/440Hz.git
+[submodule "Tutor"]
+	path = Tutor
+	url = git@github.com:MUK-research/Tutor.git
+[submodule "Tagung-Einreichung"]
+	path = Tagung/Tagung-Einreichung
+	url = git@github.com:AdrianArtacho/Tagung---Proposal.git
+[submodule "Tagung/PEEK-MUK"]
+	path = Tagung/PEEK-MUK
+	url = git@github.com:AdrianArtacho/PEEK-MUK.git
+[submodule "Tagung/ideas/ArsEmergendi"]
+	path = Tagung/ideas/ArsEmergendi
+	url = git@github.com:AdrianArtacho/ArsEmergendi.git
+[submodule "Tagung/ideas/FragmentedTime"]
+	path = Tagung/ideas/FragmentedTime
+	url = git@github.com:AdrianArtacho/Fragmented-Time.git
+[submodule "Artacho/website-personal"]
+	path = Artacho/website-personal
+	url = git@github.com:AdrianArtacho/website-personal.git
+[submodule "Artacho/atlas-rc"]
+	path = Artacho/atlas-rc
+	url = git@github.com:AdrianArtacho/atlas-rc.git
+[submodule "PORTAL"]
+	path = BPLab/PORTAL
+	url = git@github.com:MUK-research/PORTAL.git
+[submodule "BPL-CallForProjects"]
+	path = BPLab/BPL-CallForProjects
+	url = git@github.com:AdrianArtacho/BPL-CallForProjects.git
+[submodule "Tagung/AR-MUK-Summary"]
+	path = Tagung/AR-MUK-Summary
+	url = git@github.com:AdrianArtacho/AR-MUK-Summary.git
