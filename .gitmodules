@@ -43,3 +43,7 @@
 [submodule "Tagung/Deck"]
 	path = Tagung/Deck
 	url = https://github.com/AdrianArtacho/Attention-Deck
+[submodule "Teilprojekte/TesserAkt"]
+	path = Teilprojekte/TesserAkt
+	url = https://github.com/AdrianArtacho/TesserAkt.git
+	branch = main
