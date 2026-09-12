@@ -55,3 +55,6 @@
 	path = Artacho/META4Live
 	url = https://github.com/AdrianArtacho/META4Live.git
 	branch = main
+[submodule "Artacho/GT"]
+	path = Artacho/GT
+	url = git@github.com:AdrianArtacho/GenerativeTuning.git
