@@ -51,3 +51,7 @@
 	path = Artacho/SYNCLAB
 	url = https://github.com/AdrianArtacho/SYNCLAB.git
 	branch = main
+[submodule "Artacho/META4Live"]
+	path = Artacho/META4Live
+	url = https://github.com/AdrianArtacho/META4Live.git
+	branch = main
