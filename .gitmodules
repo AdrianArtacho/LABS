@@ -47,3 +47,7 @@
 	path = Teilprojekte/TesserAkt
 	url = https://github.com/AdrianArtacho/TesserAkt.git
 	branch = main
+[submodule "Artacho/SYNCLAB"]
+	path = Artacho/SYNCLAB
+	url = https://github.com/AdrianArtacho/SYNCLAB.git
+	branch = main
