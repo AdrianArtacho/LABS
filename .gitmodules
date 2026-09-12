@@ -1,17 +1,17 @@
 [submodule "Klavier"]
-	path = Klavier
+	path = Teilprojekte/Klavier
 	url = git@github.com:MUK-research/Klavier.git
 [submodule "tools"]
 	path = tools
 	url = git@github.com:AdrianArtacho/git_tools.git
 [submodule "PianoRules"]
-	path = PianoRules
+	path = Teilprojekte/PianoRules
 	url = git@github.com:MUK-research/PianoRules.git
 [submodule "440Hz"]
-	path = 440Hz
+	path = Artacho/440Hz
 	url = git@github.com:MUK-research/440Hz.git
 [submodule "Tutor"]
-	path = Tutor
+	path = Teilprojekte/Tutor
 	url = git@github.com:MUK-research/Tutor.git
 [submodule "Tagung-Einreichung"]
 	path = Tagung/Tagung-Einreichung
