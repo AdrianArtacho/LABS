@@ -58,3 +58,6 @@
 [submodule "Artacho/GT"]
 	path = Artacho/GT+
 	url = git@github.com:AdrianArtacho/GenerativeTuning.git
+[submodule "Tagung/attention-mapping"]
+	path = Tagung/attention-mapping
+	url = git@github.com:AdrianArtacho/attention-mapping.git
