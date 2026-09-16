@@ -65,3 +65,6 @@
 [submodule "Teilprojekte/Stargaze"]
 	path = Teilprojekte/Stargaze
 url=git@github.com:AdrianArtacho/Stargaze.git
+[submodule "EchoesOfSteinhof"]
+	path = EchoesOfSteinhof
+	url = git@github.com:AdrianArtacho/echoes-of-steinhof.git
