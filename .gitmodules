@@ -62,3 +62,6 @@
 	path = Tagung/mapping
 	url = https://github.com/AdrianArtacho/attention-mapping
 	branch = main
+[submodule "Teilprojekte/Stargaze"]
+	path = Teilprojekte/Stargaze
+	url = git@github.com:AdrianArtacho/Ephemeris.git
