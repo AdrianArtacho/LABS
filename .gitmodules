@@ -1,18 +1,18 @@
 [submodule "Klavier"]
 	path = Teilprojekte/Klavier
-	url = git@github.com:MUK-research/Klavier.git
+url=git@github.com:MUK-Labs/Klavier.git
 [submodule "tools"]
 	path = tools
 	url = git@github.com:AdrianArtacho/git_tools.git
 [submodule "PianoRules"]
 	path = Teilprojekte/PianoRules
-	url = git@github.com:MUK-research/PianoRules.git
+url=https://github.com/MUK-Labs/PianoRules
 [submodule "440Hz"]
 	path = Artacho/440Hz
 	url = git@github.com:MUK-research/440Hz.git
 [submodule "Tutor"]
 	path = Teilprojekte/Tutor
-	url = git@github.com:MUK-research/Tutor.git
+url=git@github.com:MUK-Labs/Tutor.git
 [submodule "Tagung-Einreichung"]
 	path = Tagung/Tagung-Einreichung
 	url = git@github.com:AdrianArtacho/Tagung---Proposal.git
@@ -33,7 +33,7 @@
 	url = git@github.com:AdrianArtacho/atlas-rc.git
 [submodule "PORTAL"]
 	path = BPLab/PORTAL
-	url = git@github.com:MUK-research/PORTAL.git
+url=git@github.com:MUK-Labs/PORTAL.git
 [submodule "BPL-CallForProjects"]
 	path = BPLab/BPL-CallForProjects
 	url = git@github.com:AdrianArtacho/BPL-CallForProjects.git
@@ -64,7 +64,7 @@
 	branch = main
 [submodule "Teilprojekte/Stargaze"]
 	path = Teilprojekte/Stargaze
-url=git@github.com:AdrianArtacho/Stargaze.git
+url=git@github.com:MUK-Labs/Stargaze.git
 [submodule "EchoesOfSteinhof"]
 	path = Teilprojekte/Steinhof
 	url = git@github.com:AdrianArtacho/echoes-of-steinhof.git
