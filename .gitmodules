@@ -5,7 +5,7 @@ url=git@github.com:MUK-Labs/Klavier.git
 	path = tools
 	url = git@github.com:AdrianArtacho/git_tools.git
 [submodule "PianoRules"]
-	path = Teilprojekte/PianoRules
+	path = Teilprojekte/Rules/PianoRules
 url=https://github.com/MUK-Labs/PianoRules
 [submodule "440Hz"]
 	path = Artacho/440Hz
@@ -68,3 +68,6 @@ url=git@github.com:MUK-Labs/Stargaze.git
 [submodule "EchoesOfSteinhof"]
 	path = Teilprojekte/Steinhof
 	url = git@github.com:AdrianArtacho/echoes-of-steinhof.git
+[submodule "Teilprojekte/Rules/demo"]
+	path = Teilprojekte/Rules/demo
+	url = https://github.com/AdrianArtacho/PianoRules-demo.git
