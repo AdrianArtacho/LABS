@@ -59,7 +59,7 @@ url=git@github.com:MUK-Labs/PORTAL.git
 	path = Artacho/GT+
 	url = git@github.com:AdrianArtacho/GenerativeTuning.git
 [submodule "Tagung/mapping"]
-	path = Tagung/mapping
+	path = Tagung/attention-mapping
 	url = https://github.com/AdrianArtacho/attention-mapping
 	branch = main
 [submodule "Teilprojekte/Stargaze"]
