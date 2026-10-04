@@ -77,3 +77,6 @@ url=git@github.com:MUK-Labs/Stargaze.git
 [submodule "Tagung/MUK-Strategie"]
 	path = Tagung/MUK-Strategie
 	url = https://github.com/AdrianArtacho/MUK-Strategie.git
+[submodule "Tagung/attention-measuring"]
+	path = Tagung/attention-measuring
+	url = https://github.com/AdrianArtacho/attention-measuring.git
