@@ -14,7 +14,7 @@ url=https://github.com/MUK-Labs/PianoRules
 	path = Teilprojekte/Tutor
 url=git@github.com:MUK-Labs/Tutor.git
 [submodule "Tagung-Einreichung"]
-	path = Tagung/Tagung-Einreichung
+	path = Tagung/Tagung-Proposal
 	url = git@github.com:AdrianArtacho/Tagung---Proposal.git
 [submodule "Tagung/PEEK-MUK"]
 	path = Tagung/PEEK-MUK
