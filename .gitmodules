@@ -74,3 +74,6 @@ url=git@github.com:MUK-Labs/Stargaze.git
 [submodule "Teilprojekte/Rules/InfoBlatt"]
 	path = Teilprojekte/Rules/InfoBlatt
 	url = https://github.com/AdrianArtacho/PianoRules.git
+[submodule "Tagung/MUK-Strategie"]
+	path = Tagung/MUK-Strategie
+	url = https://github.com/AdrianArtacho/MUK-Strategie.git
