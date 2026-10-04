@@ -41,7 +41,7 @@ url=git@github.com:MUK-Labs/PORTAL.git
 	path = Tagung/AR-MUK-Summary
 	url = git@github.com:AdrianArtacho/AR-MUK-Summary.git
 [submodule "Tagung/Deck"]
-	path = Tagung/Deck
+	path = Tagung/attention-deck
 	url = https://github.com/AdrianArtacho/Attention-Deck
 [submodule "Teilprojekte/TesserAkt"]
 	path = Teilprojekte/TesserAkt
