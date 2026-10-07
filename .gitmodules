@@ -80,3 +80,6 @@ url=git@github.com:MUK-Labs/Stargaze.git
 [submodule "Tagung/attention-measuring"]
 	path = Tagung/attention-measuring
 	url = https://github.com/AdrianArtacho/attention-measuring.git
+[submodule "Artacho/orch-mix"]
+	path = Artacho/orch-mix
+	url = https://github.com/AdrianArtacho/orch-mix.git
