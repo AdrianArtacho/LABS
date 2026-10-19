@@ -83,3 +83,9 @@ url=git@github.com:MUK-Labs/Stargaze.git
 [submodule "Artacho/orch-mix"]
 	path = Artacho/orch-mix
 	url = https://github.com/AdrianArtacho/orch-mix.git
+[submodule "Teilprojekte/SALTA/SALTA-Roadshow"]
+	path = Teilprojekte/SALTA/SALTA-Roadshow
+	url = https://github.com/AdrianArtacho/SALTA-Roadshow.git
+[submodule "Teilprojekte/SALTA/saltaR"]
+	path = Teilprojekte/SALTA/saltaR
+	url = https://github.com/MUK-Labs/saltaR.git
