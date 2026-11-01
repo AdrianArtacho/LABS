@@ -95,3 +95,6 @@ url=git@github.com:MUK-Labs/Stargaze.git
 [submodule "Teilprojekte/SALTA/SALTA-Container-docs"]
 	path = Teilprojekte/SALTA/SALTA-Container-docs
 	url = https://github.com/AdrianArtacho/SALTA-Container-docs.git
+[submodule "Teilprojekte/SALTA/vpn"]
+	path = Teilprojekte/SALTA/vpn
+	url = https://github.com/AdrianArtacho/vpn.git
