@@ -89,3 +89,9 @@ url=git@github.com:MUK-Labs/Stargaze.git
 [submodule "Teilprojekte/SALTA/saltaR"]
 	path = Teilprojekte/SALTA/saltaR
 	url = https://github.com/MUK-Labs/saltaR.git
+[submodule "Teilprojekte/SALTA/SALTA-Container"]
+	path = Teilprojekte/SALTA/SALTA-Container
+	url = https://github.com/AdrianArtacho/SALTA-Container.git
+[submodule "Teilprojekte/SALTA/SALTA-Container-docs"]
+	path = Teilprojekte/SALTA/SALTA-Container-docs
+	url = https://github.com/AdrianArtacho/SALTA-Container-docs.git
