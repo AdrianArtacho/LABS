@@ -98,3 +98,9 @@ url=git@github.com:MUK-Labs/Stargaze.git
 [submodule "Teilprojekte/SALTA/vpn"]
 	path = Teilprojekte/SALTA/vpn
 	url = https://github.com/AdrianArtacho/vpn.git
+[submodule "Artacho/Kontrapunktatlas"]
+	path = Artacho/Kontrapunktatlas
+	url = https://github.com/MUK-Labs/Kontrapunktatlas.git
+[submodule "Artacho/Kontrapunktatlas-references"]
+	path = Artacho/Kontrapunktatlas-references
+	url = https://github.com/AdrianArtacho/Kontrapunktatlas-references.git
